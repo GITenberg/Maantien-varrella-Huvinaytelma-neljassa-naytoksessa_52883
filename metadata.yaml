@@ -1,0 +1,38 @@
+_repo: Maantien-varrella-Huvinaytelma-neljassa-naytoksessa_52883
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Törmänen, C. Edv.
+    aliases:
+    - Tormanen, C. Edv.
+    - Törmänen, Carl Edward
+    birthdate: 1855
+    deathdate: 1880
+    gutenberg_agent_id: '7521'
+    url: http://www.gutenberg.org/2009/agents/7521
+    wikipedia: https://fi.wikipedia.org/wiki/C._Edv._Törmänen
+creator:
+  author:
+    agent_name: Hostrup, C. (Christian)
+    aliases:
+    - Hostrup, Christian
+    - Hostrup, Jens Christian
+    birthdate: 1818
+    deathdate: 1892
+    gutenberg_agent_id: '45915'
+    url: http://www.gutenberg.org/2009/agents/45915
+description: ''
+gutenberg_issued: '2016-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52883'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Danish drama -- Translations into Finnish'
+- GITenberg
+title: 'Maantien varrella: Huvinäytelmä neljässä näytöksessä'
+url: http://www.gutenberg.org/ebooks/52883
